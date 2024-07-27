@@ -4,6 +4,8 @@
 
 1. Clone the repository:  
 `git clone https://github.com/your-username/your-repo.git`  
+
+2. Change directory to your new repository:   
 `cd your-repo`  
 
 ## Workflow for Collaboration
@@ -16,9 +18,9 @@
 2. Making Changes:  
 - Make your changes in the code.  
 - Stage the changes:  
-+ `git add .`  
+`git add .`  
 - Commit the changes:  
-+ `git commit -m "Description of the changes"`  
+`git commit -m "Description of the changes"`  
 
 3. Pushing Changes to GitHub:  
-+ `git push origin feature-branch-name` 
+`git push origin feature-branch-name` 
