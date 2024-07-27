@@ -12,7 +12,7 @@
 
 1. **Creating a New Branch:**  
 
-Always create a new branch for each feature or fix:  
+- Always create a new branch for each feature or fix:  
 `git checkout -b feature-branch-name`  
 
 2. **Making Changes:**  
