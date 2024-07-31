@@ -8,6 +8,7 @@
 ### 2. Change directory to your new repository: 
 `cd collaboration-test`  
 
+
 ## Workflow for Collaboration
 
 ### 1. Creating a New Branch:
@@ -37,6 +38,7 @@
 
 Here is a demo video on youtube:  [Reviewing and Merging Pull Requests](https://www.youtube.com/watch?v=k5D37W6h56o)  
 
+
 ## Keeping Your Local Repository Updated  
 
 1. Switch to the Main Branch:**     
@@ -44,6 +46,7 @@ Here is a demo video on youtube:  [Reviewing and Merging Pull Requests](https://
 
 2. Pull the Latest Changes:**  
 `git pull origin main`  
+
 
 ## Handling Conflicts
 
@@ -54,6 +57,7 @@ Here is a demo video on youtube:  [Reviewing and Merging Pull Requests](https://
 
 - Continue the merge:  
 `git commit`  
+
 
 ## Best Practices
 
