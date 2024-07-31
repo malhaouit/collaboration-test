@@ -20,7 +20,7 @@
 - Make your changes in the code.  
 - Stage the changes:  
 `git add .`  
-- Commit the changes:
+- Commit the changes:  
 `git commit -m "Description of the changes"`  
 
 ### 3. Pushing Changes to GitHub:
@@ -41,10 +41,10 @@ Here is a demo video on youtube:  [Reviewing and Merging Pull Requests](https://
 
 ## Keeping Your Local Repository Updated  
 
-1. Switch to the Main Branch:**     
+1. Switch to the Main Branch:     
 `git checkout main`  
 
-2. Pull the Latest Changes:**  
+2. Pull the Latest Changes:  
 `git pull origin main`  
 
 
