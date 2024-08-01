@@ -1,4 +1,19 @@
-# collaboration-test
+# Calculator Collaboration Test
+
+## Project Introduction
+
+Welcome to the Calculator Collaboration Test project!
+
+### 1. Purpose
+The primary goal of this project is to provide a hands-on experience in collaborating on a shared codebase using GitHub. As students, this project will help us understand the basics of version control, branching, pull requests, code reviews, and conflict resolution in a real-world setting.
+
+### 2. Why a Calculator?
+A calculator is an ideal project for collaboration due to its simplicity and modular nature. Each arithmetic operation (addition, subtraction, multiplication, division...) can be implemented independently, allowing us to divide the tasks easily among the team. This modular approach will help us practice:
+
+- **Branching:** Working on separate branches for each feature.
+- **Pull Requests:** Submitting and reviewing code changes.
+- **Code Reviews:** Providing feedback and improving code quality.
+- **Conflict Resolution:** Handling merge conflicts when integrating different branches.
 
 ## Initial Setup
 
