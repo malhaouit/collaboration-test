@@ -18,10 +18,10 @@ A calculator is an ideal project for collaboration due to its simplicity and mod
 ## Initial Setup
 
 ### 1. Clone the repository:  
-`git clone https://github.com/malhaouit/collaboration-test.git`  
+`git clone https://github.com/malhaouit/calculator-collaboration-test.git`  
 
 ### 2. Change directory to your new repository: 
-`cd collaboration-test`  
+`cd calculator-collaboration-test`  
 
 
 ## Workflow for Collaboration
