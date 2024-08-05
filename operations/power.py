@@ -6,10 +6,6 @@ def power(base, exponent):
     """
     Calculate the power of a number.
 
-    :param base: The base number.
-    :param exponent: The exponent to raise the base to.
-    :return: The result of raising base to the power of exponent.
-    :raises ValueError: If exponent is negative.
     """
     if exponent == 0:
         return 1
