@@ -5,10 +5,18 @@
 def power(base, exponent):
     """
     Calculate the power of a number.
+
     :param base: The base number.
     :param exponent: The exponent to raise the base to.
     :return: The result of raising base to the power of exponent.
+    :raises ValueError: If exponent is negative.
     """
+    if exponent == 0:
+        return 1
+    elif exponent < 0:
+        base = 1 / base
+        exponent = -exponent
+
     result = 1
     for _ in range(exponent):
         result *= base
@@ -17,6 +25,5 @@ def power(base, exponent):
 
 if __name__ == "__main__":
     base = 2
-    exponent = 3
-    print(f"{base} raised to the power of
-          {exponent} is {power(base, exponent)}")
+    exponent = -3
+    print(f"{base} raised to the power of {exponent} is {power(base, exponent)}")
