@@ -16,6 +16,7 @@ def multiply(args: List) -> float:
     """
     value = 1
     for arg in args:
+        arg = float(arg)
         if not isinstance(arg, (int, float)):
             raise ValueError("All arguments must be numbers.")
         value *= arg
