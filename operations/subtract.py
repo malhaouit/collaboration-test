@@ -1,8 +1,14 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+"""
+Subtract Module
+
+This module provides a function to perform subtraction.
+"""
+
 
 def subtract(x, y):
     """
-    Subtracts the second number from the first number.
+    Subtract the second number from the first number.
 
     Parameters:
     x (float): The number from which y will be subtracted.
@@ -12,3 +18,9 @@ def subtract(x, y):
     float: The result of x - y.
     """
     return x - y
+
+
+if __name__ == "__main__":
+    x = 10
+    y = 5
+    print(f"The result of subtracting {y} from {x} is {subtract(x, y)}")
